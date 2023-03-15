@@ -19,4 +19,5 @@ console.log(fatorial(2))//2
 console.log(fatorial(3))//6
 console.log(fatorial(-1))//Não é um número positivo!
 console.log(fatorial(0))//1
-console.log(fatorial(-2))//1
+console.log(fatorial(-2))//Não é um número positivo!
+console.log(fatorial(-15))//Não é um número positivo!
