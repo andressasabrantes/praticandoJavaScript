@@ -11,3 +11,4 @@ console.log(arraySum([15,46,75,34,23]))//193
 console.log(arraySum([10, 15, 30]))//55
 console.log(arraySum([2, 2, 2, 2, 2, 2, 2]))//14
 console.log(arraySum([12, 15, 152, 1576, 12]))//1767
+console.log(arraySum([12, 15, 152, 1576, 0]))//1755
