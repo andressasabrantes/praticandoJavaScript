@@ -12,4 +12,5 @@ function convertArray(arrayDeArrays) {
 }
 console.log(convertArray([["c",2],["d",4]]))//{c:2, d:4}
 console.log(convertArray([["Filme:", "Ocean's eight"],["Filme2:", "Just Go With it"],["Filme3:", "Home Alone"]]))//{Filme: 'Ocean's eight', Filme: 'Just Go With it', Filme: 'Home Alone'}
+console.log(convertArray([["Nome:", "Andressa"],["Sobrenome:", "Abrantes"], ["Idade:", 27]]))//{Nome: 'Andressa', Sobrenome: 'Abrantes', Idade: 27}
 console.log(convertArray([["Nota1:", 9],["Nota2:", 7],["Nota3:", 6], ["Nota4:", 8], ["Nota5:", 10]]))//{'Nota1:': 9, 'Nota2:': 7, 'Nota3:': 6, 'Nota4:': 8, 'Nota5:': 10}
