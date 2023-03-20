@@ -24,11 +24,3 @@ console.log(removeDuplicate([1,1,1,1,1,2,3,3,2,4,5,4,7,7,3,8,9,10,10,11,6,6,11])
 console.log(removeDuplicate([true, false, true, " ", " ", 0, 0]))//[true, false, " ", 0]
 console.log(removeDuplicate(["4", false, 80, false, 4, "4", 76, 4]))//['4', false, 80, 4, 76]
 
-
-
-
-
-
-
-
-
